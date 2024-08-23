@@ -5,6 +5,6 @@ xhofe/alist:latest
 mysql:latest
 redis:latest
 mongo:latest
-eclipse-temurin
+eclipse-temurin:8u422-b05-jre
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
