@@ -11,6 +11,6 @@ kibana:7.17.3
 mongo:4
 minio/minio
 nacos/nacos-server
-xuxueli/xxl-job-admin:2.4.1
+openjdk:8-jre-slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
