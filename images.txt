@@ -10,7 +10,7 @@ rabbitmq:3.9-management
 kibana:7.17.3
 mongo:4
 minio/minio
-nacos/nacos-server
+nacos/nacos-server:v2.2.0.1
 openjdk:8-jre-slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
