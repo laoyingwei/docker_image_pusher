@@ -12,5 +12,6 @@ mongo:4
 minio/minio
 nacos/nacos-server
 openjdk:8-jre-slim
+kr1sp1n/xclip:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
