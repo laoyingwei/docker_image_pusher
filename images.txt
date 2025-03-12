@@ -14,3 +14,4 @@ nacos/nacos-server:v2.2.0.1
 openjdk:8-jre-slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+twang2218/gitlab-ce-zh
