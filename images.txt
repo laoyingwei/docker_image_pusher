@@ -14,3 +14,4 @@ lyumikael/gomodd:v1.20.3
 nginx:1.21.5
 twang2218/gitlab-ce-zh
 node:22.9.0
+gitlab/gitlab-runner:0245389d
