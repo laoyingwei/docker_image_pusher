@@ -15,3 +15,13 @@ nginx:1.21.5
 twang2218/gitlab-ce-zh
 node:22.9.0
 gitlab/gitlab-runner:alpine3.16-v16.9.1
+
+registry.k8s.io/etcd:3.6.4-0
+coredns/coredns:v1.12.1
+registry.k8s.io/coredns/coredns:v1.12.1
+registry.k8s.io/kube-apiserver:v1.34.0
+registry.k8s.io/kube-controller-manager:v1.34.0
+registry.k8s.io/kube-proxy:v1.34.0
+registry.k8s.io/kube-scheduler:v1.34.0
+registry.k8s.io/pause:3.10.1
+gcr.io/k8s-minikube/storage-provisioner:v5
