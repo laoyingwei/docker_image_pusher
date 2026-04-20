@@ -25,3 +25,4 @@ registry.k8s.io/kube-proxy:v1.34.0
 registry.k8s.io/kube-scheduler:v1.34.0
 registry.k8s.io/pause:3.10.1
 gcr.io/k8s-minikube/storage-provisioner:v5
+chromadb/chroma:latest
