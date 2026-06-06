@@ -1,2 +1,1 @@
-golang:alpine
-golang:1.26-bookworm
+pgvector/pgvector:0.8.2-pg16
